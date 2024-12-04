@@ -1,2 +1,2 @@
 # NODEMCU---Car-Heater
-Using love2d and NODEMCU i'm simulating a car heater. More description in explanation file.
+Final Project of INF1350(PUC RIO): using love2d and NODEMCU i'm simulating a car heater. More description in explanation file.
