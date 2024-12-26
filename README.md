@@ -4,3 +4,4 @@ Final Project of INF1350(PUC RIO): using love2d and NODEMCU i'm simulating a car
 Remember: first turn ON, on visual code the station file, then the testemqtt file after we see an IP conection on NODEMCU-Tools console.
 
 ps: CH340 Extension can help with "NODEMCU TOOLS EXTENSION" problems on visual code.
+https://www.wemos.cc/en/latest/ch340_driver.html
